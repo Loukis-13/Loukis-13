@@ -2,8 +2,8 @@
 
 **[Portifólio](https://loukis-13.github.io)**
 
-Desenvolvedor
-Programador no Grupo GFT Brasil
+Desenvolvedor  
+Programador no Grupo GFT Brasil  
 Estudante de Análise e desenvolvimento de sistemas na FATEC Ribeirão Preto  
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Loukis-13) -->
