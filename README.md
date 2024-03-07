@@ -2,7 +2,7 @@
 <h2 align="center"> Software Engineer </h2>
 
 Working at **GFT Brasil**  
-Systems Analisys and Development student at FATEC Ribeirão Preto  
+Systems Analisys and Development graduated from FATEC Ribeirão Preto  
 
 **Check out my [Portfolio](https://loukis-13.github.io) to see my projects**  
 ### Find me on:
@@ -20,7 +20,7 @@ Systems Analisys and Development student at FATEC Ribeirão Preto
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
 </a>
  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40" />
 </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
