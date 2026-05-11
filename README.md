@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Loukis-13 👋 </h1>
 <h2 align="center"> Software Engineer </h2>
 
-Working at **GFT Brasil**  
+Working at **Nubank**  
 Systems Analisys and Development graduated from FATEC Ribeirão Preto  
 
 **Check out my [Portfolio](https://loukis-13.github.io) to see my projects**  
